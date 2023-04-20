@@ -1,17 +1,17 @@
 [
   {
     "name": "home",
-    "src": "images/server-wall.jpg",
-    "alt": "woman holding laptop standing by server room with glass wall"
+    "src": "images/conf.jpg",
+    "alt": "conference attendees watching talk"
   },
   {
     "name": "about",
-    "src": "images/mosaic.svg",
-    "alt": "purple and blue abstract background"
+    "src": "images/background.jpg",
+    "alt": "abstract background"
   },
   {
     "name": "portfolio",
-    "src": "images/design-desk.jpeg",
+    "src": "images/devops-heroes-banner.png",
     "alt": "desktop with books and laptop"
   }
 ]
